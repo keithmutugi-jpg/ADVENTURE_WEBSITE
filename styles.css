@@ -4,7 +4,7 @@
         font-family: Arial, sans-serif;
         margin: 0;
         padding: 0;
-        background-color: rgb(233, 233, 240);
+        background-color: rgb(168, 168, 168);
     }
     
 }
@@ -132,7 +132,7 @@
     font-style: italic;
 }
 #about {
-    background-color: rgb(217, 212, 239);
+    background-color: rgb(15, 15, 15);
     font-size: large;
 }
 #paragraph {
